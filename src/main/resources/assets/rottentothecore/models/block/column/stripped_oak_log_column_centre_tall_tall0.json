@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_centre_tall_tall0",
+	"textures": {
+		"top": "minecraft:block/stripped_oak_log_top",
+		"side": "minecraft:block/stripped_oak_log"
+	}
+}

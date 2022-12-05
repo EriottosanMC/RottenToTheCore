@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_centre_short_short1",
+	"textures": {
+		"top": "minecraft:block/smooth_stone",
+		"side": "minecraft:block/smooth_stone"
+	}
+}

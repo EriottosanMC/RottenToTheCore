@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_base0",
+	"textures": {
+		"top": "minecraft:block/chiseled_quartz_block",
+		"side": "minecraft:block/chiseled_quartz_block"
+	}
+}

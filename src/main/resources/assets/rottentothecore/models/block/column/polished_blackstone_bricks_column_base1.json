@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_base1",
+	"textures": {
+		"top": "minecraft:block/polished_blackstone_bricks",
+		"side": "minecraft:block/polished_blackstone_bricks"
+	}
+}

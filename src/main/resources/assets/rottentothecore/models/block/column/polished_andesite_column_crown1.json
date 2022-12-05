@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_crown1",
+	"textures": {
+		"top": "minecraft:block/polished_andesite",
+		"side": "minecraft:block/polished_andesite"
+	}
+}

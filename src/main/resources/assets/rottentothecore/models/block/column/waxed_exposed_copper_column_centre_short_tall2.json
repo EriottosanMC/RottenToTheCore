@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_centre_short_tall2",
+	"textures": {
+		"top": "minecraft:block/exposed_copper",
+		"side": "minecraft:block/exposed_copper"
+	}
+}

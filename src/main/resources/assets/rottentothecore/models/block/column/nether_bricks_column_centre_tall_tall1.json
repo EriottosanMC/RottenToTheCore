@@ -1,0 +1,7 @@
+{
+	"parent": "rottentothecore:block/template/column_centre_tall_tall1",
+	"textures": {
+		"top": "minecraft:block/nether_bricks",
+		"side": "minecraft:block/nether_bricks"
+	}
+}

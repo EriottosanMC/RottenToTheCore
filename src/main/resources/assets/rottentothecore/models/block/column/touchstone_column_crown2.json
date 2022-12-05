@@ -1,0 +1,7 @@
+{
+  "parent": "rottentothecore:block/template/column_crown2",
+  "textures": {
+    	"top": "rottentothecore:block/touchstone_top",
+		"side": "rottentothecore:block/touchstone"
+  }
+}
